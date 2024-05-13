@@ -12,7 +12,7 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
       - name: Run the Maven verify phase
-        run: mvn compile exec:java -Dexec.mainClass="StrategyDPTest"
+        run: mvn compile exec:java -Dexec.mainClass="com.nt.client.StrategyDPTest"
 #        run: java -jar target/mvn-example-1.0-SNAPSHOT.jar
 
 #        run: mvn --batch-mode --update-snapshots verify
