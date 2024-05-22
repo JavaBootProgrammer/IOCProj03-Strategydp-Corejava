@@ -1,5 +1,5 @@
 //Flipkart.java
-package com.nt.comps;
+package com.courier.comps;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,9 +1,9 @@
-package com.nt.factory;
+package com.courier.factory;
 
-import com.nt.comps.BlueDart;
-import com.nt.comps.DTDC;
-import com.nt.comps.Flipkart;
-import com.nt.comps.ICourier;
+import com.courier.comps.BlueDart;
+import com.courier.comps.DTDC;
+import com.courier.comps.Flipkart;
+import com.courier.comps.ICourier;
 
 public class FlipkartFactory {
 

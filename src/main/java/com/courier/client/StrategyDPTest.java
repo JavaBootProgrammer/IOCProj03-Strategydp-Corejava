@@ -1,7 +1,7 @@
-package com.nt.client;
+package com.courier.client;
 
-import com.nt.comps.Flipkart;
-import com.nt.factory.FlipkartFactory;
+import com.courier.comps.Flipkart;
+import com.courier.factory.FlipkartFactory;
 
 public class StrategyDPTest {
     public static void main(String[] args) {

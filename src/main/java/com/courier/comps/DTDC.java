@@ -1,4 +1,4 @@
-package com.nt.comps;
+package com.courier.comps;
 
 public final class DTDC implements ICourier {
 

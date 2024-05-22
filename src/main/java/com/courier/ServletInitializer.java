@@ -1,4 +1,4 @@
-package com.nt;
+package com.courier;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
